@@ -1,0 +1,10 @@
+package t01;
+
+public class Test4 {
+	public static void main(String[] args) {//자바의 생명은 타입 String=문자열,args=변수 , 메소드블럭 
+		System.out.println("1.반갑습니다."); 
+		System.out.print("2.반갑습니다.\n\n"); 
+		System.out.println("3.반갑습니다."); 
+		System.out.println("4.반갑습니다."); 
+	}
+}
